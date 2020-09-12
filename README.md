@@ -1,4 +1,4 @@
-# Amazon-Bot
+# AmazonBot_for_Python
 Amazonで人気商品等のページを監視し、Amazon本体からの出品が認識されると自動的に商品を購入するプログラムとなります。
 
 # 概要
